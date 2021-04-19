@@ -1,0 +1,17 @@
+hr {
+    border-style: none;
+    border-top: dotted; 
+    border-color: grey;
+    width: 10%;
+    border-width: 9px
+}
+body {
+    background-color: aquamarine;
+}
+h1{
+    color: #c67ace;
+    font-family: papyrus;
+}
+h3{
+    color:#c67ace;
+}
